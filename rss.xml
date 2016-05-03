@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[death-to-email]]></title>
+        <description><![CDATA[death-to-email]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 03 May 2016 10:51:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://calnewport.com/blog/2016/04/19/write-longer-emails/</p>]]></description>
+            <link>undefinedhttpcalnewportcomblog20160419write-longer-emails/index.html</link>
+            <guid isPermaLink="false">9ba71228-0ed5-4cb6-84c3-49b6d04a6ff0</guid>
+            <pubDate>Tue, 03 May 2016 10:50:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
